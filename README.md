@@ -2,9 +2,10 @@
 
 <p><strong>Repositorio</strong> creado para la asignatura de <em>entornos de desarrollo</em></p>
 ---
-##ENUNCIADO DEL EJERCICIO
 
-###FICHEROS
+## ENUNCIADO DEL EJERCICIO
+
+### FICHEROS
 
 <p>1- Vamos a escribir un <strong>bot automatizado</strong> para ciertos tipos de respuestas.
 
