@@ -34,6 +34,6 @@ Para esto:
 	todo debe ser escrito en el fichero a modo de chat.
 </p>
 
-<img src= "gatopc.png"></img>
+<img src= "https://github.com/JSBPROG/retogit/blob/main/gatopc.jpg"></img>
 
 </body>
