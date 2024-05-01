@@ -8,6 +8,7 @@
 
 ### FICHEROS
 
+<body>
 <p>1- Vamos a escribir un <strong>bot automatizado</strong> para ciertos tipos de respuestas.
 
 Este bot es un trigger ante la aparición de ciertas palabras en un texto, por ejemplo, siempre que el texto escrito por usuario contenga la subcadena "hola", el bot va a enviar el mensaje ¿Qué tal?.
@@ -32,3 +33,7 @@ Para esto:
 	Crea una clase Main donde pongas todo esto en funcionamiento. Todo lo que escriba el bot debe poder verse por consola junto con todo lo anterior y 
 	todo debe ser escrito en el fichero a modo de chat.
 </p>
+
+<img src= "gatopc.png"></img>
+
+</body>
