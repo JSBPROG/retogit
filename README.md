@@ -1,2 +1,4 @@
-# retogit
-Reposiorio creado para el reto 2 de entornos de desarrollo.
+### RETO 2 :computer: 
+*Repositorio* creado para el _reto 2_ de entornos de desarrollo.
+---
+
