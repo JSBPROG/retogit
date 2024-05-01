@@ -1,4 +1,3 @@
 # RETO 2 :computer: 
-<span style="font-family: Arial; color: blue;">*Repositorio* creado para el _reto 2_ de entornos de desarrollo.</span>
 ---
-
+<p><strong>Repositorio</strong> creado para la asignatura de <em>entornos de desarrollo</em></p>
